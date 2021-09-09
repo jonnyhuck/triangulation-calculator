@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Great Newlands Triangulation</string>
+    <string name="location_a">  Location A</string>
+    <string name="location_b">  Location B</string>
+    <string name="easting">Easting</string>
+    <string name="northing">Northing</string>
+    <string name="direction">Direction</string>
+    <string name="button_text">Calculate</string>
+    <string name="degrees">&#xb0;</string>
+    <string name="output">Results will appear here...</string>
+    <string name="clear">Clear</string>
+</resources>
